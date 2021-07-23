@@ -1,0 +1,148 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+  .report {
+    text-align: center;
+  }
+
+  .modal {
+    width: 25%;
+    color: #ffff;
+  }
+
+  .modal input:focus {
+    border-bottom: 1px solid #fff !important;
+    box-shadow: 0 1px 0 0 #fff !important;
+  }
+
+  .modal input {
+    border-bottom: 1px solid #fff !important;
+    box-shadow: 0 1px 0 0 #fff !important;
+    color: #ffffff;
+  }
+
+  .brown:checked:checked+span:not(.lever):before {
+    top: -4px;
+    left: -3px;
+    width: 12px;
+    height: 22px;
+    border-top: 2px solid transparent;
+    border-left: 2px solid transparent;
+    border-right: 2px solid rgb(94, 49, 49); /* You need to change the colour here */
+    border-bottom: 2px solid rgb(94, 49, 49); /* And here */
+    -webkit-transform: rotate(40deg);
+    -moz-transform: rotate(40deg);
+    -ms-transform: rotate(40deg);
+    -o-transform: rotate(40deg);
+    transform: rotate(40deg);
+    -webkit-backface-visibility: hidden;
+    -webkit-transform-origin: 100% 100%;
+    -moz-transform-origin: 100% 100%;
+    -ms-transform-origin: 100% 100%;
+    -o-transform-origin: 100% 100%;
+    transform-origin: 100% 100%; }
+
+  .flexContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 15px;
+    margin: 15px;
+  }
+
+  .dropdown-content li>span {
+    color: #000 !important;
+  }
+
+  .input-field label {
+    color: #fff;
+  }
+
+  .search{
+    height: 35px !important;
+  }
+
+  .fixed {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: calc(100vh - 64px);
+  }
+
+  .lab {
+    width: 90%;
+  }
+
+  .input-field i {
+    color: #000 !important;
+    line-height:  2;
+    text-align: right;
+    width: 100%;
+  }
+
+  .float_card {
+    margin-top: 70%;
+    padding: 0 !important;
+  }
+
+  .broadcast a.translation_btn {
+    margin: 0 auto !important;
+    display: block;
+  }
+
+  .broadcast_head {
+    text-align: center;
+  }
+
+  .card_link {
+    color: #ffffff;
+  }
+
+  .translations {
+    width: 70%;
+  }
+
+  .input-field input:focus + label {
+    color: #fff !important;
+  }
+
+  .input-field input:focus {
+    border-bottom: 1px solid #fff !important;
+    box-shadow: 0 1px 0 0 #fff !important;
+  }
+
+  .register-input-field input:focus {
+    border-bottom: 1px solid rgb(118, 113, 113) !important;
+    box-shadow: 0 1px 0 0  rgb(118, 113, 113) !important;
+  }
+
+  .report-input input:focus {
+    border-bottom: 1px solid rgb(118, 113, 113) !important;
+    box-shadow: 0 1px 0 0  rgb(118, 113, 113) !important;
+  }
+
+  .auth input {
+    border-bottom: 1px solid #fff !important;
+    box-shadow: 0 1px 0 0 #fff !important;
+    color: #ffffff;
+  }
+
+  .card {
+    padding: 15px;
+  }
+
+  .card-content {
+    margin: 0 !important;
+  }
+
+  .card-action {
+      padding: 10px !important;
+  }
+
+  .row {
+      margin: 0;
+  }
+
+  * {
+      box-sizing: border-box !important;
+  }
+  

@@ -1,0 +1,6 @@
+[1203/122141.744:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1203/194408.324:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1206/123624.579:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1221/141157.960:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0103/181750.259:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0403/015022.393:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Ollya\AppData\Local\Google\Chrome\User Data\Crashpad\reports\5aa5916e-65a7-4016-9a10-0b3ab945525e.dmp: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом. (0x20)

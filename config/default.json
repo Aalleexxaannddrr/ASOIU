@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "Chertovskikh Alexander ASOIU",
+    "mongoUri": "mongodb+srv://alex:qweewqqweewq@cluster0.psomw.mongodb.net/123?retryWrites=true&w=majority"
+}
